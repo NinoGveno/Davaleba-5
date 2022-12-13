@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-ThinItalic.eot');
+    src: url('/fonts/Roboto-ThinItalic.eot') format('embedded-opentype'),
+        url('/fonts/Roboto-ThinItalic.woff2') format('woff2'),
+        url('/fonts/Roboto-ThinItalic.woff') format('woff'),
+        url('/fonts/Roboto-ThinItalic.ttf') format('truetype'),
+        url('/fonts/Roboto-ThinItalic.svg') format('svg');
+    
+    font-display: swap;
+}
+

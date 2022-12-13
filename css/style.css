@@ -1,0 +1,12 @@
+header{border: 5px solid red;
+    width: 1180px;
+    margin:  0 auto;
+    padding: 41px 62px 55px 44px;}
+h2{ font-size: 70px;
+display: inline-block; vertical-align: middle; margin-right: 95px;
+}
+nav{ display: inline-block; vertical-align: middle;}
+li{display: inline-block;
+font-size: 18px; margin-right: 80px;
+
+   }
